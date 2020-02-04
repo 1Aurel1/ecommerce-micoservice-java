@@ -6,4 +6,5 @@ spring:
     config:
       server:
         git:
-          uri: 
+          uri: https://github.com/1Aurel1/ecommerce-micoservice-java.git
+          search-paths: properties
