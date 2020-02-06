@@ -1,13 +1,13 @@
-package com.ecommerce.oauth;
+package com.ecommerce.productresource;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OauthApplication {
+public class ProductResourceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(OauthApplication.class, args);
+        SpringApplication.run(ProductResourceApplication.class, args);
     }
 
 }
