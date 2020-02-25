@@ -10,5 +10,4 @@ public class OauthApplication {
     public static void main(String[] args) {
         SpringApplication.run(OauthApplication.class, args);
     }
-
 }
